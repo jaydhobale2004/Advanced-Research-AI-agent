@@ -1,0 +1,10 @@
+{
+  "version": "v1_base",
+  "planner_instructions": "Create a sharp research plan. Break the topic into clear subquestions. Prefer precise search queries and avoid vague phrasing.",
+  "research_instructions": "Use only the provided search results. Extract concrete findings grounded in snippets. Prefer useful, non-duplicate points with clear evidence.",
+  "critique_instructions": "Be strict. Mark research insufficient if key tradeoffs, limitations, or decision factors are missing.",
+  "writer_instructions": "Write a professional markdown report. Be accurate, practical, and cite claims with numeric references.",
+  "search_results_per_query": 5,
+  "max_rounds": 2,
+  "memory_k": 4
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "topic": "Compare LangGraph and LangChain for building multi-step AI workflows",
+    "goal": "A good answer should explain the difference between orchestration and component frameworks, discuss state, control flow, and developer tradeoffs, and include citations."
+  },
+  {
+    "topic": "Compare three approaches for LLM observability for small teams",
+    "goal": "A good answer should discuss tracing, evaluation, cost, and ease of setup, and include citations."
+  },
+  {
+    "topic": "What should a startup consider before using multi-agent systems in production?",
+    "goal": "A good answer should cover complexity, cost, monitoring, guardrails, and practical rollout advice with citations."
+  }
+]

@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain-community
+langchain-openai
+langchain-nvidia-ai-endpoints
+faiss-cpu
+pydantic
+requests
+python-dotenv
+typing-extensions
